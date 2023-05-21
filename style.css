@@ -29,3 +29,45 @@ a {
     color: #03A9F4;
 }
 
+.nav-list {
+    display: flex;
+    margin-bottom: 92px;
+    margin-top: 71px;
+    justify-content: space-evenly;
+}
+
+body {
+    margin-top: 182px;
+    margin-right: 147px;
+    margin-left: 147px;
+    margin-bottom: 47px;
+}
+
+.card-container-1,
+.card-container-2,
+.card-container-3 {
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    color: #7D7D7D;
+}
+
+.button {
+    display: flex;
+    padding-top: 20px;
+    padding-right: 48px;
+    padding-left: 49px;
+    padding-bottom: 21px;
+    background-color: #ffffff;
+    color: #626262;
+    border-style: solid;
+    border-color: #626262;
+}
+
+.button-move {
+    display: flex;
+    justify-content: center;
+}
+
